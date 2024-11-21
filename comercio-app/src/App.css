@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.p-inputtext {
+  margin: 0;
+  width: 100%;
+}
+
+.p-password {
+  position: relative;
+  display: block;
+}
+
+.card {
+  background: var(--gray-900);
+  box-sizing: border-box;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  box-shadow: var(--card-shadow);
+  border-radius: 1.25rem;
+}
