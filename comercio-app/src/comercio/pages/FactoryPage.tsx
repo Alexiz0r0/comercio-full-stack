@@ -85,7 +85,7 @@ const FactoryPage = () => {
         </div>
       </ComercioLayout>
       <Dialog
-        header='Add New autor'
+        header='Add New Factory'
         visible={showAddMode}
         style={{ width: '30vw' }}
         onHide={() => setShowAddMode(false)}
